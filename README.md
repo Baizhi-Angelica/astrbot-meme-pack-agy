@@ -1,6 +1,6 @@
 # 哈基米（AGY）表情包
 
-适用于 [AstrBot 表情包管理器](https://github.com/anka-afk/astrbot_plugin_meme_manager) 的社区表情包，收录 64 张哈基米（Gemini / AGY）Q 版表情（256×256 PNG），按 15 个聊天语义类别整理。
+适用于 [AstrBot 表情包管理器](https://github.com/anka-afk/astrbot_plugin_meme_manager) 的社区表情包，收录 64 张哈基米（Gemini / AGY）Q 版表情（86×86 PNG），按 15 个聊天语义类别整理。
 
 ![cover](previews/cover.jpg)
 

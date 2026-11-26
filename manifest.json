@@ -2,8 +2,8 @@
   "schema_version": 1,
   "id": "agy-meme-pack",
   "name": "哈基米（AGY）表情包",
-  "version": "1.0.0",
-  "description": "收录 64 张哈基米（Gemini / AGY）Q 版表情（256×256 PNG），素材源自 Aster-Sirius-gemigemi/agy-meme，按 15 个聊天语义类别整理，遵循 CC BY-NC-SA 4.0 协议开源。",
+  "version": "1.0.1",
+  "description": "收录 64 张哈基米（Gemini / AGY）Q 版表情（86×86 PNG），素材源自 Aster-Sirius-gemigemi/agy-meme，按 15 个聊天语义类别整理，遵循 CC BY-NC-SA 4.0 协议开源。",
   "author": "人设原案：zipzippipe；原表情包整理：Aster-Sirius-gemigemi/agy-meme；AstrBot 适配：Baizhi-Angelica",
   "homepage": "https://github.com/Baizhi-Angelica/astrbot-meme-pack-agy",
   "license": "CC-BY-NC-SA-4.0",
@@ -25,7 +25,7 @@
   "source": {
     "type": "github",
     "repo": "Baizhi-Angelica/astrbot-meme-pack-agy",
-    "ref": "v1.0.0",
+    "ref": "v1.0.1",
     "subpath": "."
   },
   "compat": {
