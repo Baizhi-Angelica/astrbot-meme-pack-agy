@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "agy-meme-pack",
+  "name": "哈基米（AGY）表情包",
+  "version": "1.0.0",
+  "description": "收录 64 张哈基米（Gemini / AGY）Q 版表情（256×256 PNG），素材源自 Aster-Sirius-gemigemi/agy-meme，按 15 个聊天语义类别整理，遵循 CC BY-NC-SA 4.0 协议开源。",
+  "author": "人设原案：zipzippipe；原表情包整理：Aster-Sirius-gemigemi/agy-meme；AstrBot 适配：Baizhi-Angelica",
+  "homepage": "https://github.com/Baizhi-Angelica/astrbot-meme-pack-agy",
+  "license": "CC-BY-NC-SA-4.0",
+  "tags": [
+    "community",
+    "agy",
+    "gemini",
+    "hajimi",
+    "chibi",
+    "png",
+    "meme-pack",
+    "cc-by-nc-sa-4.0"
+  ],
+  "icon": "previews/cover.jpg",
+  "previews": [
+    "previews/cover.jpg",
+    "previews/overview.jpg"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "Baizhi-Angelica/astrbot-meme-pack-agy",
+    "ref": "v1.0.0",
+    "subpath": "."
+  },
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "greeting": {
+      "description": "用于打招呼、挥手问好、早安、收到任务或上线报到。"
+    },
+    "happy": {
+      "description": "用于开心、大笑、庆祝、撒花、星星眼、积极兴奋或展示高光时刻。"
+    },
+    "affection": {
+      "description": "用于喜欢、心动、比心、飞吻、贴贴、求抱抱或卖萌撒娇。"
+    },
+    "shy": {
+      "description": "用于害羞、脸红、捂嘴偷笑或从指缝暗中偷看。"
+    },
+    "teasing": {
+      "description": "用于调皮、眨眼、吐舌、坏笑、馋嘴、整活发癫、心虚或伪装玩梗。"
+    },
+    "cool": {
+      "description": "用于得意、装酷、戴墨镜拿捏或推眼镜学霸分析。"
+    },
+    "angry": {
+      "description": "用于生气、暴怒、傲娇喷气、翻白眼或吐槽输出；避免用于真实冲突。"
+    },
+    "refusal": {
+      "description": "用于摇头摆手拒绝、表示不行或达咩。"
+    },
+    "sad": {
+      "description": "用于难过、崩溃大哭、委屈求安慰、含泪微笑、失落、冷到结冰或负伤求救。"
+    },
+    "surprised": {
+      "description": "用于震惊、惊恐倒吸凉气、目瞪口呆、脑洞爆炸或剧烈抖动。"
+    },
+    "thinking": {
+      "description": "用于深度思考、纠结、挑眉怀疑或戴单片眼镜严谨考据。"
+    },
+    "dazed": {
+      "description": "用于晕头转向、融化躺平、微醺恍惚、热到融化或反胃吐槽。"
+    },
+    "sleep": {
+      "description": "用于困倦、打哈欠、休眠待机、晚安、长叹一口气或悄悄隐身溜走。"
+    },
+    "money": {
+      "description": "用于发财、见钱眼开、算力自由或金钱玩笑。"
+    },
+    "reply": {
+      "description": "用于普通回应、礼貌微笑、汗颜尴尬、面瘫无语、点头赞同或保密提醒。"
+    }
+  }
+}
